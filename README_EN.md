@@ -83,3 +83,31 @@ pingouin
 ### Execution
 
 Open the `.ipynb` notebook and execute all cells sequentially in a Python kernel. The notebook includes intrastructural comments and will connect with the Dataframe hosting the CSV, instantiating the statistical models in an automated way over the session.
+
+---
+
+## 👨‍🔬 **Authorship and Affiliation**
+
+- **Author:** Cristian Carreño León
+- **Email:** <cristian.carreno@uv.cl>
+- **Institution:** Universidad de Valparaíso, Chile.
+- **Department:** Faculty of Medicine. School of Obstetrics and Puericulture.
+
+---
+
+## 📄 **License**
+
+This work and the documents contained in this repository are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) © 2026**.
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc-sa/4.0/> or check the `LICENSE` file included in this repository.
